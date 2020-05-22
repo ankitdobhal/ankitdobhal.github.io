@@ -1,4 +1,4 @@
----
+ ---
 layout: page
 title: Hi Script Kiddies!
 image:
@@ -7,8 +7,7 @@ comments: false
 modified: 2020-05-22
 ---
 
-I am a infosec guy. Basically, I love to do automation,Pentesting,developing new tools for hacking,sometimes surf github more than any other social sites.In my free time, I write blogs related to tech & hacking in dev.to community.I also love OSINT.
-I always belive that - “Don’t become best be the busiest in your work”.
+  I am a infosec guy who loves to do hacking with programming. Basically, I love to do automation,Pentesting,developing new tools for hacking,sometimes surf github more than any other social sites.In my free time, I write blogs related to tech & hacking in dev.to community.I also love OSINT.I always belive that - “Don’t become best be the busiest in your work”.
 
 Apart from that, I also a open source contributor.
 Some of my projects are:
