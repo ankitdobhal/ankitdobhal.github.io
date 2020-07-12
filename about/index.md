@@ -6,7 +6,7 @@ image:
 comments: false
 modified: 2020-05-22
 ---
--->
+
 I'm a Penetration Tester,Ethical Hacker and Data Science Enthusiast.🔭 I’m currently working as a Student-CodeIn Mentor and learning about Data science. Apart from this I love to develop new tools for hacking. 🌱 I'm command line user have worked more in scripting language and some cool technologies.
 Some key skill : Python , Bash , Powershell , Linux , Linux tools , Git, Kali.
 - 🔭 Github is my Instagram
