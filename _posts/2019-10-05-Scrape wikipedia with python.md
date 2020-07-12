@@ -1,11 +1,11 @@
 ---
-title: 'Wow! Scraping Wikipedia content With 10 line of code!'
+layout: post
+title: Wikipedia Scrape With 10 line of code
+description : "As easy to srape anything."
 date: 2019-10-05
-permalink: /posts/2019/10/Scraping Wikipedia With Python/
-tags:
-
-  - python
+tags: [Python, Scraping]
 ---
+
 "**Hackers loves to use scraping to harvest data.~Ankit Dobhal**"
 
 Welcome to My Blog
@@ -45,5 +45,3 @@ Its time to run the script with command line argument >>
 **Thankyou all for visting my blog you can also check my gist for wikipy script the link is below!!
 [wiki.py](https://gist.github.com/ankitdobhal/cc40a40cccd69bd646aaa06b7a05046e)
 follow me on github & linkedlin for more exciting blogs and scripts!** 
-
-------
