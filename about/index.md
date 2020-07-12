@@ -18,8 +18,10 @@ Some key skill : Python , Bash , Powershell , Linux , Linux tools , Git, Kali.
 
 Apart from that, I also a open source contributor.
 Some of my projects are:
-- [Ashok](https://github.com/ankitdobhal/Ashok): OSINT Recon Tool designed for beginner's in hacking.
-- [Mailbomber](https://github.com/ankitdobhal/MailBomber): Mass mail attack tool.
-- [Powerexploit](https://github.com/ankitdobhal/Powerexploit): Exploitation module for pentesters and hackers using powershell.
-
+- [Ashok](https://github.com/ankitdobhal/Ashok) - OSINT Recon Tool designed for beginner's in hacking.
+- [Mailbomber](https://github.com/ankitdobhal/MailBomber) - Mass mail attack tool.
+- [Powerexploit](https://github.com/ankitdobhal/Powerexploit) - Exploitation module for pentesters and hackers using powershell.
+- [Awesome-Python-Scripts](https://github.com/ankitdobhal/Awesome-Python-Scripts) - A curated collections of Python Scripts.
+- [Awesome-Javascript](https://github.com/ankitdobhal/Awesome-Javascript) - Acurated collections of Javascript codes.
+- [Regpy](https://github.com/ankitdobhal/regpy) - Python Module based Regular Expressionwith CLI feature.
 You can find others at [my Github profile](https://github.com/ankitdobhal)
